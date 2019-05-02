@@ -26,7 +26,7 @@
       "storeLogoUrl": "https://tknk.io/BKvC",
       "store": "PC Express",
       "address": "Unit 444 Cyberzone, Building B, SM Megamall, EDSA cor. Julia Vargas Avenue, Mandaluyong City, Metro Manila",
-      "link": "link",
+      "link": "https://tknk.io/BKvC",
       "pk": 1
     },
     {
@@ -35,7 +35,7 @@
       "storeLogoUrl": "http://pcdepot.com.ph/pcd4/Images/logo.png",
       "store": "PC Depot",
       "address": "5th Floor (CyberZone) Annex Building, SM North Edsa, Quezon City",
-      "link": "link",
+      "link": "http://pcdepot.com.ph/pcd4/Images/logo.png",
       "pk": 1
     },
     {
@@ -44,7 +44,7 @@
       "storeLogoUrl": "https://tknk.io/E3Xu",
       "store": "Octagon",
       "address": "4/Floor Cyberzone, SM Megamall Building B, Mandaluyong City",
-      "link": "link",
+      "link": "https://tknk.io/E3Xu",
       "pk": 1
     },
     {
@@ -53,7 +53,7 @@
       "storeLogoUrl": "https://tknk.io/BKvC",
       "store": "PC Express",
       "address": "Unit 444 Cyberzone, Building B, SM Megamall, EDSA cor. Julia Vargas Avenue, Mandaluyong City, Metro Manila",
-      "link": "link",
+      "link": "https://tknk.io/BKvC",
       "pk": 2
     },
     {
@@ -62,7 +62,7 @@
       "storeLogoUrl": "http://pcdepot.com.ph/pcd4/Images/logo.png",
       "store": "PC Depot",
       "address": "5th Floor (CyberZone) Annex Building, SM North Edsa, Quezon City",
-      "link": "link",
+      "link": "http://pcdepot.com.ph/pcd4/Images/logo.png",
       "pk": 2
     },
     {
@@ -71,7 +71,7 @@
       "storeLogoUrl": "https://tknk.io/E3Xu",
       "store": "Octagon",
       "address": "4/Floor Cyberzone, SM Megamall Building B, Mandaluyong City",
-      "link": "link",
+      "link": "https://tknk.io/E3Xu",
       "pk": 2
     },
     {
@@ -80,7 +80,7 @@
       "storeLogoUrl": "https://tknk.io/BKvC",
       "store": "PC Express",
       "address": "Unit 444 Cyberzone, Building B, SM Megamall, EDSA cor. Julia Vargas Avenue, Mandaluyong City, Metro Manila",
-      "link": "link",
+      "link": "https://tknk.io/BKvC",
       "pk": 3
     },
     {
@@ -89,7 +89,7 @@
       "storeLogoUrl": "http://pcdepot.com.ph/pcd4/Images/logo.png",
       "store": "PC Depot",
       "address": "5th Floor (CyberZone) Annex Building, SM North Edsa, Quezon City",
-      "link": "link",
+      "link": "http://pcdepot.com.ph/pcd4/Images/logo.png",
       "pk": 3
     },
     {
@@ -98,7 +98,7 @@
       "storeLogoUrl": "https://tknk.io/E3Xu",
       "store": "Octagon",
       "address": "4/Floor Cyberzone, SM Megamall Building B, Mandaluyong City",
-      "link": "link",
+      "link": "https://tknk.io/E3Xu",
       "pk": 3
     }
   ]
