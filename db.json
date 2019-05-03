@@ -4,19 +4,22 @@
       "id": 1,
       "imgUrl": "https://images.samsung.com/is/image/samsung/p5/in/microsite/galaxya/a50/ready-action-recharge-features3-1.png?$ORIGIN_PNG$",
       "title": "Samsung A50 Prices",
-      "created": "01/01/2019"
+      "created": "01/01/2019",
+      "author": 1
     },
     {
       "id": 2,
       "imgUrl": "https://images.samsung.com/is/image/samsung/p5/in/microsite/galaxya/galaxy-a10/galaxy-a10-specification.png?$ORIGIN_PNG$&n=1",
       "title": "Samsung A10 Prices",
-      "created": "02/14/2019"
+      "created": "02/14/2019",
+      "author": 2
     },
     {
       "id": 3,
       "imgUrl": "https://cdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m20-m205f-1.jpg",
       "title": "Samsung M20 Prices",
-      "created": "03/21/2019"
+      "created": "03/21/2019",
+      "author": 2
     }
   ],
   "stores": [
@@ -100,6 +103,22 @@
       "address": "4/Floor Cyberzone, SM Megamall Building B, Mandaluyong City",
       "adLink": "https://tknk.io/E3Xu",
       "pk": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Thor",
+      "password": "password",
+      "created": "01/01/2019",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "patrick",
+      "password": "password1",
+      "created": "01/01/2019",
+      "role": "post"
     }
   ]
 }
