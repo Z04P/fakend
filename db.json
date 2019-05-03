@@ -6,7 +6,7 @@
       "title": "Samsung A50 Prices",
       "author": "Thor",
       "created": "01/01/2019",
-      "dateModified": ""
+      "modified": ""
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "title": "Samsung A10 Prices",
       "author": "Tony",
       "created": "02/14/2019",
-      "dateModified": ""
+      "modified": ""
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "title": "Samsung M20 Prices",
       "author": "Tony",
       "created": "03/21/2019",
-      "dateModified": ""
+      "modified": ""
     }
   ],
   "stores": [
@@ -116,7 +116,7 @@
       "password": "password",
       "role": "admin",
       "created": "01/01/2019",
-      "dateModified": ""
+      "modified": ""
     },
     {
       "id": 2,
@@ -125,7 +125,7 @@
       "password": "password1",
       "role": "post",
       "created": "01/01/2019",
-      "dateModified": ""
+      "modified": ""
     }
   ]
 }
