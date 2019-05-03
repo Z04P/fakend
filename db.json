@@ -4,22 +4,25 @@
       "id": 1,
       "imgUrl": "https://images.samsung.com/is/image/samsung/p5/in/microsite/galaxya/a50/ready-action-recharge-features3-1.png?$ORIGIN_PNG$",
       "title": "Samsung A50 Prices",
+      "author": "Thor",
       "created": "01/01/2019",
-      "author": "Thor"
+      "dateModified": ""
     },
     {
       "id": 2,
       "imgUrl": "https://images.samsung.com/is/image/samsung/p5/in/microsite/galaxya/galaxy-a10/galaxy-a10-specification.png?$ORIGIN_PNG$&n=1",
       "title": "Samsung A10 Prices",
+      "author": "Tony",
       "created": "02/14/2019",
-      "author": "Tony"
+      "dateModified": ""
     },
     {
       "id": 3,
       "imgUrl": "https://cdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m20-m205f-1.jpg",
       "title": "Samsung M20 Prices",
+      "author": "Tony",
       "created": "03/21/2019",
-      "author": "Tony"
+      "dateModified": ""
     }
   ],
   "stores": [
@@ -111,16 +114,18 @@
       "name": "Thor",
       "username": "Thor",
       "password": "password",
+      "role": "admin",
       "created": "01/01/2019",
-      "role": "admin"
+      "dateModified": ""
     },
     {
       "id": 2,
       "name": "Tony",
       "username": "tony",
       "password": "password1",
+      "role": "post",
       "created": "01/01/2019",
-      "role": "post"
+      "dateModified": ""
     }
   ]
 }
