@@ -108,18 +108,18 @@
   "users": [
     {
       "id": 1,
+      "name": "Thor",
       "username": "Thor",
       "password": "password",
       "created": "01/01/2019",
-      "name": "Thor",
       "role": "admin"
     },
     {
       "id": 2,
+      "name": "Tony",
       "username": "tony",
       "password": "password1",
       "created": "01/01/2019",
-      "name": "Tony",
       "role": "post"
     }
   ]
