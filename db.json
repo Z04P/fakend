@@ -12,14 +12,14 @@
       "imgUrl": "https://images.samsung.com/is/image/samsung/p5/in/microsite/galaxya/galaxy-a10/galaxy-a10-specification.png?$ORIGIN_PNG$&n=1",
       "title": "Samsung A10 Prices",
       "created": "02/14/2019",
-      "author": "tony"
+      "author": "Tony"
     },
     {
       "id": 3,
       "imgUrl": "https://cdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m20-m205f-1.jpg",
       "title": "Samsung M20 Prices",
       "created": "03/21/2019",
-      "author": "tony"
+      "author": "Tony"
     }
   ],
   "stores": [
@@ -111,6 +111,7 @@
       "username": "Thor",
       "password": "password",
       "created": "01/01/2019",
+      "name": "Thor",
       "role": "admin"
     },
     {
@@ -118,6 +119,7 @@
       "username": "tony",
       "password": "password1",
       "created": "01/01/2019",
+      "name": "Tony",
       "role": "post"
     }
   ]
